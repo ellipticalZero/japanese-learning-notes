@@ -40,4 +40,4 @@ and vertically.
 
 ## Links
 
-- Next: [hiragana/01-introduction.md](../hiragana/01-introduction.md)
+- Next: [hiragana/01-introduction.md](../hiragana-A1-Self-Study/01-introduction.md)
