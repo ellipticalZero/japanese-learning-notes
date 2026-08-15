@@ -18,14 +18,14 @@ materials.
 
 ## Structure
 
-\```
+\'''
 japanese-notes/
   README.md          <- this file, progress tracker
   hiragana/           <- notes per hiragana lesson
   katakana/           <- notes per katakana lesson
   grammar/            <- grammar points as I learn them (A1, A2, ...)
   vocab/               <- vocab lists / notes by topic
-\```
+\'''
 
 ## Log format
 
