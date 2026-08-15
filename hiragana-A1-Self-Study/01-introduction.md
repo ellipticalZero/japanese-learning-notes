@@ -37,7 +37,3 @@ numerals (1, 2, 3). Japanese text can also be written both horizontally
 and vertically.
 
 
-
-## Links
-
-- Next: [hiragana/01-introduction.md](../hiragana-A1-Self-Study/01-introduction.md)
