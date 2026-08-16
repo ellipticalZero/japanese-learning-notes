@@ -1,4 +1,6 @@
-# Japanese Characters
+# Intruduction
+
+## Japanese Characters
 
 In the Japanese language there are three main character formats:
 
